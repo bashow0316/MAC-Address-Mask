@@ -1,4 +1,4 @@
-# MAC_Address_Mask
+# MAC-Address-Mask
 
 MAC Address Mask script
 
